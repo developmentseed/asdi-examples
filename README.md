@@ -1,7 +1,7 @@
 # asdi-examples
 Jupyter Notebook examples related to the datasets in the [Amazon Sustainability Data Initiative (ASDI)](https://sustainability.aboutamazon.com/environment/the-cloud/amazon-sustainability-data-initiative) program.
 
-In particulare these notebooks demonstrate how to query and access data from a [Spatial Temporal Asset Catalog (STAC)] of the open datasets that have been cataloged.
+In particular, these notebooks demonstrate how to query and access data from a [Spatial Temporal Asset Catalog (STAC)] of the open datasets that have been cataloged.
 
 The notebooks are designed to work with [AWS SageMaker Studio Lab](https://studiolab.sagemaker.aws/) which you can use for free`*`, but should also work with other Jupyter Notebook environments. You may need to be in the same AWS region as the dataset you want to access for it to work.
 
