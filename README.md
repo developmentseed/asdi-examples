@@ -3,9 +3,9 @@ Jupyter Notebook examples related to the datasets in the [Amazon Sustainability 
 
 In particular, these notebooks demonstrate how to query and access data from a [Spatial Temporal Asset Catalog (STAC)] of the open datasets that have been cataloged.
 
-The notebooks are designed to work with [AWS SageMaker Studio Lab](https://studiolab.sagemaker.aws/) which you can use for free`*`, but should also work with other Jupyter Notebook environments. You may need to be in the same AWS region as the dataset you want to access for it to work.
+The notebooks are designed to work with [AWS SageMaker Studio Lab](https://studiolab.sagemaker.aws/) which you can use for free[^1], but should also work with other Jupyter Notebook environments. You may need to be in the same AWS region as the dataset you want to access for it to work.
 
-`*` Free allocation is time limited.
+[^1]: Free allocation is time limited.
 
 
 ## Datasets
