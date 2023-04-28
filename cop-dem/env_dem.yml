@@ -1,0 +1,23 @@
+# To use:
+#   $ conda env create -f env_dem.yml
+#   $ conda activate dem
+name: dem
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - conda
+  - pip
+  - conda:
+    - ipykernel
+    - numpy
+    - pandas
+    - matplotlib
+    - rasterio 
+    - folium 
+    - geopandas
+    - xarray
+  - pip:
+    - pystac_client>=0.5.0 
+    - stackstac
